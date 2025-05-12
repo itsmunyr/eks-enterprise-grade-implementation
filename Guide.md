@@ -42,7 +42,6 @@ Resource limits and quotas
 Dual Platform Support:
 
 GitHub Actions: Two complete workflows (Helm and Kustomize)
-GitLab CI/CD: Full pipeline with same features
 
 
 Pipeline Stages:
@@ -233,7 +232,7 @@ Comprehensive documentation ✓
 Beyond Requirements
 
 Alternative deployment method (Kustomize) ✓
-Dual CI/CD platform support (GitHub + GitLab) ✓
+CI/CD platform support (GitHub) ✓
 Security scanning and best practices ✓
 Production-grade monitoring ✓
 Cost optimization features ✓
